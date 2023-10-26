@@ -7,6 +7,8 @@
 - ![image](https://github.com/BsNgChiThanh/Cai-Project2013-va-kich-hoat/assets/82578024/2e5477d8-9d5f-485f-b5d7-acd1c03182e1)
 
 ## KÍCH HOẠT PROJECT 2013 ##
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools
 - Dùng Mas Tool https://github.com/BsNgChiThanh/MAS-TOOL
 
 ## DEMO ##
@@ -15,3 +17,4 @@
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/fb3311e5-9607-46c4-bd24-f726ef8ab866)
 - **Bấm phím 1**
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/006b7fc2-1dee-4b66-9fb5-384d20fad417)
+- Chờ chạy xong là OK!
