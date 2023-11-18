@@ -3,6 +3,8 @@
 - Download source [Project 2013](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ea_P179wWcNJguUP5nwyXQMBkpdtdrJEIrcF8rLzAoLz5Q?e=3y0ody):
 - https://drive.massgrave.dev/SW_DVD5_Project_Pro_2013w_SP1_W32_English_MLF_X19-35750.ISO
 - https://drive.massgrave.dev/SW_DVD5_Project_Pro_2013w_SP1_64Bit_English_MLF_X19-35816.ISO
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Project2013-va-kich-hoat/IMP/setupprojectproretail2013x86.en-us.exe
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Project2013-va-kich-hoat/IMP/setupprojectproretail2013x64.en-us.exe
 - Tiến hành cài đặt:
 - ![image](https://github.com/BsNgChiThanh/Cai-Project2013-va-kich-hoat/assets/82578024/40a53030-456b-4245-be9a-b734b343e783)
 - ![image](https://github.com/BsNgChiThanh/Cai-Project2013-va-kich-hoat/assets/82578024/023d1b09-8829-4073-a887-7a06ae28cc3b)
